@@ -1,3 +1,4 @@
+#Author - Nnazirim Nwaogu
 #imports
 #Importing the decoder function
 from decoder import decode_secret
